@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Proposal.aux
+The style file: acm.bst
+Database file #1: sample.bib
+Warning--empty journal in tyrpakovadeep
+You've used 2 entries,
+            2253 wiz_defined-function locations,
+            537 strings with 4236 characters,
+and the built_in function-call counts, 617 in all, are:
+= -- 57
+> -- 34
+< -- 0
++ -- 15
+- -- 12
+* -- 51
+:= -- 113
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 12
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 17
+empty$ -- 41
+format.name$ -- 12
+if$ -- 116
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 12
+num.names$ -- 4
+pop$ -- 11
+preamble$ -- 1
+purify$ -- 10
+quote$ -- 0
+skip$ -- 9
+stack$ -- 0
+substring$ -- 36
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 1
+while$ -- 6
+width$ -- 3
+write$ -- 19
+(There was 1 warning)
