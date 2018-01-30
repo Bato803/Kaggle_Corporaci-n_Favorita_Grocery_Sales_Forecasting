@@ -19,3 +19,12 @@ For my MLND project, I did the [Kaggle Competition](https://www.kaggle.com/c/fav
 
 
 ### Software Requirement
+
+The softwares I used in this project are installed in an conda environment. To isolate this environment with other software installed in your computer, you need to have `conda` installed and type in the following code at terminal:
+```
+conda env create -f environment.yaml
+```
+To activate this environment, type in:
+```
+source activate py3
+```
