@@ -1,0 +1,88 @@
+name: py3
+channels:
+- defaults
+dependencies:
+- ca-certificates=2017.08.26=h1d4fec5_0
+- certifi=2017.11.5=py36hf29ccca_0
+- libedit=3.1=heed3624_0
+- libffi=3.2.1=hd88cf55_4
+- libgcc-ng=7.2.0=h7cc24e2_2
+- libstdcxx-ng=7.2.0=h7a57d05_2
+- ncurses=6.0=h9df7e31_2
+- openssl=1.0.2n=hb7f436b_0
+- pip=9.0.1=py36h6c6f9ce_4
+- python=3.6.3=h6c0c0dc_5
+- readline=7.0=ha6073c6_4
+- setuptools=36.5.0=py36he42e2e1_0
+- sqlite=3.20.1=hb898158_2
+- tk=8.6.7=hc745277_3
+- wheel=0.30.0=py36hfd4bba0_1
+- xz=5.2.3=h55aa19d_2
+- zlib=1.2.11=ha838bed_2
+- pip:
+  - appdirs==1.4.3
+  - appnope==0.1.0
+  - backports.weakref==1.0rc1
+  - bleach==1.5.0
+  - cycler==0.10.0
+  - decorator==4.0.11
+  - entrypoints==0.2.2
+  - feather-format==0.4.0
+  - html5lib==0.9999999
+  - ipykernel==4.7.0
+  - ipython==5.3.0
+  - ipython-genutils==0.2.0
+  - ipywidgets==6.0.0
+  - jinja2==2.9.5
+  - jsonschema==2.6.0
+  - jupyter==1.0.0
+  - jupyter-client==5.0.0
+  - jupyter-console==5.1.0
+  - jupyter-contrib-core==0.3.3
+  - jupyter-contrib-nbextensions==0.3.3
+  - jupyter-core==4.3.0
+  - jupyter-highlight-selected-word==0.1.0
+  - jupyter-latex-envs==1.4.1
+  - jupyter-nbextensions-configurator==0.3.0
+  - keras==2.1.2
+  - lxml==4.1.1
+  - markdown==2.6.10
+  - markupsafe==1.0
+  - matplotlib==2.1.1
+  - mistune==0.7.4
+  - nbconvert==5.1.1
+  - nbformat==4.3.0
+  - notebook==4.4.1
+  - numpy==1.12.1
+  - packaging==16.8
+  - pandas==0.22.0
+  - pandocfilters==1.4.1
+  - pexpect==4.2.1
+  - pickleshare==0.7.4
+  - prompt-toolkit==1.0.14
+  - protobuf==3.2.0
+  - ptyprocess==0.5.1
+  - pyarrow==0.8.0
+  - pygments==2.2.0
+  - pyparsing==2.2.0
+  - python-dateutil==2.6.0
+  - pytz==2017.3
+  - pyyaml==3.12
+  - pyzmq==16.0.2
+  - qtconsole==4.3.0
+  - scikit-learn==0.19.1
+  - scipy==1.0.0
+  - simplegeneric==0.8.1
+  - six==1.10.0
+  - sklearn==0.0
+  - tensorflow-gpu==1.2.1
+  - terminado==0.6
+  - testpath==0.3
+  - tornado==4.4.3
+  - traitlets==4.3.2
+  - wcwidth==0.1.7
+  - webencodings==0.5
+  - werkzeug==0.14.1
+  - widgetsnbextension==2.0.0
+prefix: /home/ubuntu/anaconda3/envs/py3
+
