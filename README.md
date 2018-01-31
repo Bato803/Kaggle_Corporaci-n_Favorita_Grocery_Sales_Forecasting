@@ -17,7 +17,7 @@ For my MLND project, I did the [Kaggle Competition](https://www.kaggle.com/c/fav
     - [Data_preprocessing_Feature_engineering.ipynb](https://github.com/Bato803/Sharpest-Mind/blob/master/Data_preprocessing_Feature_engineering.ipynb)
     - [Random forest Regressor](https://github.com/Bato803/Sharpest-Mind/blob/master/run_random_forest.py), [Recurrent Neural Network Regressor](https://github.com/Bato803/Sharpest-Mind/blob/master/run_LSTM.py)
 
-- To get a more detail description of this project, please check out the [Final Report]().
+- To get a more detail description of this project, please check out the [Final Report](https://github.com/Bato803/Sharpest-Mind/blob/master/final_report.pdf).
 
 ### Software Requirement
 
